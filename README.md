@@ -1,8 +1,6 @@
 # ShowMe
 An application to show or hide 'hidden files' on macOS
 
-I have created this using AppleScript, but it isn't perfected at all.
+This is (extremely) in development, but should be an improvement on the buggy AppleScript version.
 
-I am now unsure whether I should refine the AppleScript version, or redevelop it in Swift.
-
-The AppleScript version is availible for you to use - just download the .app File (Folder) in the root of the master branch.
+However, the original version is still available for you to view/download [here](https://github.com/TheCoolBlackCat/ShowMe-AppleScript)
